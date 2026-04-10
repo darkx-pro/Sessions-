@@ -1,0 +1,16 @@
+{
+  "name": "darkx-session-generator",
+  "version": "1.0.0",
+  "description": "Session ID generator for DarkX-Ultra",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.16.1",
+    "express": "^4.18.2",
+    "qrcode-terminal": "^0.12.0",
+    "buffer": "^6.0.3"
+  }
+}
